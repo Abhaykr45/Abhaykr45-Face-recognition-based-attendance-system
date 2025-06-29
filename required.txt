@@ -1,0 +1,14 @@
+Python 3.10
+
+OpenCV – for image capture and face detection
+
+DeepFace – for face embedding and matching
+
+MediaPipe – for blink and head movement detection
+
+scikit-learn – for KNN face classification
+
+Gradio – for real-time attendance dashboard
+
+Pickle & CSV – for local storage of labels and attendance data
+
